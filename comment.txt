@@ -1,0 +1,9 @@
+# các keymap của công cụ Intellij
++ chạy ứng dụng
+     SHIFT + F10
++ lệnh in ra màn hình console
+ sout;
++ sao chép và dán văn bản
+ CTRL + D
+ + format code
+ ctrl + alt + L
